@@ -1,0 +1,12 @@
+{
+  "name": "natto-hacky-dark-theme",
+  "version": "0.0.1",
+  "description": "A hacky dark theme for Natto, a temporary solution until Natto supports themes.",
+  "main": "index.js",
+  "keywords": ["natto"],
+  "author": "Oren Elbaum",
+  "license": "ISC",
+  "dependencies": {
+    "@stitches/core": "^1.2.5"
+  }
+}
