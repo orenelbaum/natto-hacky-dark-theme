@@ -1,6 +1,6 @@
 # Natto Hacky Dark Theme
 
-This is a dark theme for [Natto](natto.dev) (an awesome graphical editor for JS). It's pretty hacky, but it's only a temporary solution until Natto adds support for theming.
+This is a dark theme for [Natto](https://natto.dev) (an awesome graphical editor for JS). It's pretty hacky, but it's only a temporary solution until Natto adds support for theming.
 
 ## How to use
 
