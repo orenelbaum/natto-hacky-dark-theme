@@ -1,3 +1,5 @@
+import { globalCss } from '@stitches/core'
+
 export default globalCss({
    ".cm-content": {
       caretColor: "white !important"
@@ -78,5 +80,6 @@ export default globalCss({
    },
    "div::-webkit-scrollbar-thumb": {
       background: "#234"
-   }
+   },
+   ".wire, .wire-line": { color: "#7a8790" }
 })
